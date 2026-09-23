@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm John Lloyd Daro</h1>
 <h3 align="center">A passionate backend developer from the Philippines.</h3>
 
-- 🔭 I’m currently working on: **Hopeminded Web App**
+- 🔭 I’m currently working on: **Websites and WebApps**
 
 - 🌱 I’m currently learning: **React.js, Node.js, Express.js, TypeScript, Coding Principles, Design Patterns**
 
-- 💬 Ask me about: **PHP, JavaScript, Laravel, Vue.js, Nuxt.js, Bootstrap**
+- 💬 Ask me about: **Laravel, Vue.js, Nuxt.js, PHP, JavaScript, MySQL, Vuetify, PrimeVue, Bootstrap**
 
 - 📫 How to reach me: **adolfojohnlloyd5@gmail.com**
 
